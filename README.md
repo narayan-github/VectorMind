@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-repo/vectormind.git](https://github.com/narayan-github/VectorMind.git)
+   git clone https://github.com/your-repo/vectormind.git
    cd vectormind
    ```
 
