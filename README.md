@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/vectormind.git
+   git clone [https://github.com/your-repo/vectormind.git](https://github.com/narayan-github/VectorMind.git)
    cd vectormind
    ```
 
@@ -75,5 +75,5 @@ Feel free to contribute! Submit a PR with improvements or open an issue for bugs
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or support, reach out to [Your Name] at [Your Email].
+For questions or support, reach out to Narayan Samal at [Email](narayancoding+VectorMind@gmail.com).
 
